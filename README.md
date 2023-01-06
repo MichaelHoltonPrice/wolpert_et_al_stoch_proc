@@ -62,3 +62,9 @@ activate the virtual environment
 Set-ExecutionPolicy Unrestricted -Scope Process
 .\stoch\Scripts\activate
 ```
+
+Run the analysis script:
+
+```bash
+python .\make_plots.py
+```
